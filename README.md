@@ -29,3 +29,26 @@ Lessons learnt from project:
 4. able to save project and add javascript.
 
 #Continued after project notes:
+
+
+36
+
+5 - foundation 
+
+36 - for complete javascript side 
+
+
+#################################################
+
+do 1 or 2 hours per day project.
+Need to do:
+
+create margins and padding for elements
+
+add photos to project 
+
+add finishing touches to project. 
+
+
+
+
